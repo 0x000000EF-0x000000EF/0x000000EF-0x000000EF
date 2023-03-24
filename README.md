@@ -12,3 +12,8 @@ What?
 How?
 
 Why..
+
+Learn various things
+
+(Most Used Language)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username)
