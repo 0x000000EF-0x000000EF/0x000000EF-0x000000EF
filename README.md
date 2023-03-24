@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&text=poor%develop%equipment animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&fontSize=90)
 
 Debugging principle:
 
