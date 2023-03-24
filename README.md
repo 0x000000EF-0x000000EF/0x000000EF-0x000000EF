@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#ffffff&height=100&section=header&fontSize=90&)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=header&fontSize=90&)
 Debugging principle:
 
 Who?
