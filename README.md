@@ -15,5 +15,4 @@ Why..
 
 Learn various things
 
-(Most Used Language)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x000000EF-0x000000EF)
