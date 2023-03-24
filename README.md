@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-![header](https://capsule-render.vercel.app/api?type=wave)
-![header](https://capsule-render.vercel.app/api?color=#ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#ffffff&text=poor%develop%equipment animation=fadeIn)
 
 Debugging principle:
 
